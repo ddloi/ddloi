@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Focus-Data%20Engineering-58A6FF?style=flat-square" />
     <img src="https://img.shields.io/badge/Lives-Vietnam%20🇻🇳-58A6FF?style=flat-square" />
     <img src="https://img.shields.io/github/followers/ddloi?label=Followers&style=flat-square&color=58A6FF" />
-    <img src="https://komarev.com/ghpvc/?username=ddloi&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile views" />
   </p>
 
 </div>
