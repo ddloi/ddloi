@@ -1,3 +1,22 @@
+<!-- ========== HEADER ========== -->
+<div align="center">
+
+  <!-- Typing Animation -->
+  <a href="https://github.com/ddloi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Hi+there!+I'm+Dang+Dai+Loi+(ddloi);Data+Science+Student+%40+HUFLIT;Aspiring+Data+Engineer;Building+Scalable+Data+Pipelines" alt="Typing SVG" />
+  </a>
+
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Data%20Science%20Student-blueviolet?style=flat-square" />
+    <img src="https://img.shields.io/badge/Focus-Data%20Engineering-58A6FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/Location-Vietnam%20🇻🇳-58A6FF?style=flat-square" />
+    <a href="https://github.com/ddloi?tab=followers"><img src="https://img.shields.io/github/followers/ddloi?label=Followers&style=flat-square&color=58A6FF" /></a>
+  </p>
+
+</div>
+
+---
 
 <!-- ========== ABOUT ME ========== -->
 ## 👨‍💻 About Me
