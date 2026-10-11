@@ -3,7 +3,7 @@
 
   <!-- Typing Animation -->
   <a href="https://github.com/ddloi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Hi+there!+I'm+Dang+Dai+Loi+(ddloi);Data+Science+Student+%40+HUFLIT;Aspiring+Data+Engineer;Building+Scalable+Data+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hi+there!+I'm+Dang+Dai+Loi+(ddloi);Data+Science+Student+%40+HUFLIT;Aspiring+Data+Engineer;Building+Scalable+Data+Pipelines" alt="Typing SVG" />
   </a>
 
   <!-- Badges -->
