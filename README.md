@@ -112,7 +112,7 @@ Here are some highlighted projects showcasing my journey across Data, Machine Le
   <table border="0">
     <tr>
       <td>
-        <img width="420" src="https://github-readme-stats.vercel.app/api?username=ddloi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="ddloi GitHub Stats" />
+        <img width="420" src="https://github-readme-stats.vercel.app/api?username=ddloi&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="ddloi GitHub Stats" />
       </td>
       <td>
         <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddloi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="ddloi Top Languages" />
