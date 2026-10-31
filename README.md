@@ -40,22 +40,6 @@ Hey there! 👋 I'm **Đặng Đại Lợi** (`ddloi`), an undergraduate **Data 
 
 ---
 
-<!-- ========== FEATURED PROJECTS ========== -->
-## 🚀 Featured Projects
-
-Here are some highlighted projects showcasing my journey across Data, Machine Learning, and Full-Stack Engineering:
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🎓 **[elearning-platform](https://github.com/ddloi/elearning-platform)** | Enterprise-grade full-stack LMS with role-based access, progress tracking, and video lectures. | Next.js 16, React 19, TypeScript, Tailwind CSS, Strapi, Firebase |
-| 🏋️ **[gympro-management-system](https://github.com/ddloi/gympro-management-system)** | Full-stack fitness & gym management system with QR check-in, revenue analytics, and Docker setup. | Spring Boot, Kotlin, Java, MySQL, Docker, React 19, Android |
-| 🌾 **[rice-leaf-disease-cnn](https://github.com/ddloi/rice-leaf-disease-cnn)** | Deep learning & computer vision pipeline for rice leaf disease detection and classification. | Python, TensorFlow, Keras, OpenCV, CNN, NumPy |
-| 🛒 **[aspnet-ecommerce-system](https://github.com/ddloi/aspnet-ecommerce-system)** | E-commerce platform with 3NF relational database schema, transaction processing, and EF6. | ASP.NET MVC 5, C#, Microsoft SQL Server, Entity Framework |
-| 🤖 **[rag-question-answering](https://github.com/ddloi/rag-question-answering)** | Retrieval-Augmented Generation (RAG) pipeline for document question-answering with LLMs. | Python, NLP, LangChain, Jupyter Notebook |
-| 📊 **[student-performance-prediction](https://github.com/ddloi/student-performance-prediction)** | Machine Learning exploratory analysis and academic performance predictive model. | Python, Scikit-Learn, Pandas, Matplotlib |
-
----
-
 <!-- ========== TECH STACK ========== -->
 ## 🛠️ Tech Stack & Tools
 
@@ -112,10 +96,10 @@ Here are some highlighted projects showcasing my journey across Data, Machine Le
   <table border="0">
     <tr>
       <td>
-        <img width="420" src="https://github-readme-stats.vercel.app/api?username=ddloi&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="ddloi GitHub Stats" />
+        <img width="420" src="https://github-stats-extended.vercel.app/api?username=ddloi&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="ddloi GitHub Stats" />
       </td>
       <td>
-        <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddloi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="ddloi Top Languages" />
+        <img width="420" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ddloi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="ddloi Top Languages" />
       </td>
     </tr>
   </table>
